@@ -14,7 +14,6 @@ export const getQuestionsWithSumWeightage = (
   }
 
   if (!dp[targetSum]) {
-    console.log(questions);
     console.log(`No combination found for the target sum of ${targetSum}`);
     return [];
   }
