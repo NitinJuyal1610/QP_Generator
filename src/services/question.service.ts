@@ -37,6 +37,16 @@ export const generatePaper = async (
   distribution: any,
 ): Promise<Question[]> => {
   let finalList: Question[] = [];
+
+  let totalPercentage = 0;
+  for (const basisValue of distribution) {
+    totalPercentage += basisValue;
+  }
+
+  if (totalPercentage !== 100) {
+    throw createHttpError(400, 'Total percentage should be 100');
+  }
+
   for (const basisType in distribution) {
     //in percentage
     const percentage = distribution[basisType];
@@ -47,11 +57,6 @@ export const generatePaper = async (
     if (weightage === 0) {
       continue;
     }
-
-    // fetching questions of basis type
-
-    const whereCondition: any = {};
-    whereCondition[basis] = basisType;
 
     // querying questions based on basis type eg. difficulty = easy
     const questions: Question[] = await prisma.$queryRaw`
@@ -71,9 +76,6 @@ export const generatePaper = async (
 
     // if no questions found for the basis type
     if (selectedQuestions.length == 0) {
-      console.log(
-        `No questions found for ${basisType}, weightage: ${weightage}`,
-      );
       throw createHttpError(
         400,
         'Cannot Collect Question with given distribution',
