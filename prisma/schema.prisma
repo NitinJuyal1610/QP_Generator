@@ -17,7 +17,7 @@ model Question {
 
   topic      String
 
-  difficulty Difficulty
+  difficulty String
 
   marks      Int
 
@@ -26,9 +26,4 @@ model Question {
 
 }
 
-enum Difficulty {
-  Easy
-  Medium
-  Hard
-}
 

@@ -1,72 +1,569 @@
 [
   {
-    "question": "What is the capital of France?",
-    "subject": "Geography",
-    "topic": "European Countries",
-    "difficulty": "Easy",
-    "marks": 1
-  },
-  {
-    "question": "What is the chemical symbol for gold?",
-    "subject": "Science",
-    "topic": "Chemistry",
+    "question": "Explain the concept of wave-particle duality.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
     "difficulty": "Medium",
-    "marks": 2
+    "marks": 10
   },
   {
-    "question": "What is the meaning of the word 'onomatopoeia'?",
-    "subject": "English",
-    "topic": "Vocabulary",
+    "question": "Define momentum and discuss its conservation in collisions.",
+    "subject": "Physics",
+    "topic": "Mechanics",
     "difficulty": "Hard",
-    "marks": 3
+    "marks": 15
   },
   {
-    "question": "What is the largest planet in our solar system?",
-    "subject": "Science",
-    "topic": "Astronomy",
-    "difficulty": "Easy",
-    "marks": 1
-  },
-  {
-    "question": "What is the name of the process by which plants convert sunlight into energy?",
-    "subject": "Science",
-    "topic": "Biology",
+    "question": "What is the difference between prokaryotic and eukaryotic cells?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
     "difficulty": "Medium",
-    "marks": 2
+    "marks": 10
   },
   {
-    "question": "What is the capital of Canada?",
-    "subject": "Geography",
-    "topic": "North American Countries",
+    "question": "Explain the role of ATP in cellular energy transfer.",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the system of equations: 4x - 2y = 8, 2x + 3y = 5.",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Find the antiderivative of f(x) = cos(x).",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the probability of rolling a sum of 7 with two six-sided dice.",
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of electric current and its unit of measurement.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "subject": "Chemistry",
+    "topic": "Molecules",
     "difficulty": "Easy",
-    "marks": 1
+    "marks": 5
   },
   {
-    "question": "What is the formula for calculating the area of a circle?",
+    "question": "Describe the process of meiosis and its significance.",
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the equation: 2x^2 - 5x + 3 = 0.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Name three properties of acids and three properties of bases.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of population genetics.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the work done by a force of 20 N moving an object 5 meters.",
+    "subject": "Physics",
+    "topic": "Work and Energy",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define the concept of molarity and provide its formula.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the structure and function of the nervous system.",
+    "subject": "Biology",
+    "topic": "Human Anatomy",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the inequality: 3x + 7 > 16.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the Law of Conservation of Mass?",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of magnetic fields and their applications.",
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the pH of a solution with a hydrogen ion concentration of 1 x 10^-9 M.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define the concept of entropy in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the process of transcription in molecular biology.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the trigonometric equation: sin(x) + cos(x) = 1.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the role of chloroplasts in plant cells?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Derive the formula for the area of a circle.",
     "subject": "Mathematics",
     "topic": "Geometry",
     "difficulty": "Medium",
-    "marks": 2
+    "marks": 10
   },
   {
-    "question": "What is the name of the chemical compound that makes up table salt?",
-    "subject": "Science",
-    "topic": "Chemistry",
-    "difficulty": "Hard",
-    "marks": 3
-  },
-  {
-    "question": "What is the capital of China?",
-    "subject": "Geography",
-    "topic": "Asian Countries",
-    "difficulty": "Easy",
-    "marks": 1
-  },
-  {
-    "question": "What is the name of the force that attracts objects towards each other?",
-    "subject": "Science",
-    "topic": "Physics",
+    "question": "Discuss the principles of natural selection and provide an example.",
+    "subject": "Biology",
+    "topic": "Evolution",
     "difficulty": "Medium",
-    "marks": 2
+    "marks": 10
+  },
+  {
+    "question": "Balance the chemical equation: C6H12O6 + O2 → CO2 + H2O.",
+    "subject": "Chemistry",
+    "topic": "Photosynthesis",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Find the solution to the differential equation: dy/dx = 2x.",
+    "subject": "Mathematics",
+    "topic": "Differential Equations",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the relationship between frequency and wavelength in a wave?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of half-life in radioactive decay.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Identify the major components of the Earth's atmosphere and their percentages.",
+    "subject": "Physics",
+    "topic": "Earth Science",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Describe the structure and function of ribosomes in cells.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the work done by a force of 50 N acting on an object displaced 8 meters.",
+    "subject": "Physics",
+    "topic": "Work and Energy",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the logarithmic equation: log2(x) = 3.",
+    "subject": "Mathematics",
+    "topic": "Logarithms",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of electronegativity in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the process of cellular respiration.",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the trigonometric identity: tan^2(x) + 1 = sec^2(x).",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What is the difference between exothermic and endothermic reactions?",
+    "subject": "Chemistry",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the principles of classical conditioning in psychology.",
+    "subject": "Psychology",
+    "topic": "Behaviorism",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of tectonic plate movement and its effects on Earth's surface.",
+    "subject": "Physics",
+    "topic": "Geophysics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the principles of special relativity.",
+    "subject": "Physics",
+    "topic": "Relativity",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the structure and function of the endocrine system in humans.",
+    "subject": "Biology",
+    "topic": "Human Anatomy",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the definite integral: ∫[0 to π] sin(x) dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the concept of covalent bonding in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of social Darwinism in sociology.",
+    "subject": "Sociology",
+    "topic": "Social Theory",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the principles of operant conditioning in psychology.",
+    "subject": "Psychology",
+    "topic": "Behaviorism",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Balance the redox reaction: Fe2+ + MnO4- → Fe3+ + Mn2+.",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the differential equation: dy/dx = y^2.",
+    "subject": "Mathematics",
+    "topic": "Differential Equations",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the concept of market equilibrium in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Describe the process of neurotransmission in the nervous system.",
+    "subject": "Biology",
+    "topic": "Neuroscience",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Identify and explain the major stages of the cell cycle.",
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the system of equations: 2x - y = 4, 3x + y = 7.",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the impact of climate change on ecosystems.",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define the concept of globalization in international relations.",
+    "subject": "Political Science",
+    "topic": "International Relations",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of supply and demand in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Describe the process of protein synthesis in cells.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the logarithmic equation: ln(x) = 2.",
+    "subject": "Mathematics",
+    "topic": "Logarithms",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the role of the United Nations in international diplomacy.",
+    "subject": "Political Science",
+    "topic": "International Organizations",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the concept of perfect competition in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of inertia in classical mechanics.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Discuss the applications of nanotechnology in medicine.",
+    "subject": "Physics",
+    "topic": "Nanotechnology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the role of the Golgi apparatus in cellular function.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the integral: ∫(e^x + 2x) dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of electronegativity in covalent bonds.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of cognitive dissonance in psychology.",
+    "subject": "Psychology",
+    "topic": "Cognitive Psychology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the impact of deforestation on biodiversity.",
+    "subject": "Environmental Science",
+    "topic": "Conservation",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of oligopoly in the context of market structures.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the role of cytokines in the immune system.",
+    "subject": "Biology",
+    "topic": "Immunology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the trigonometric equation: cos(2x) = 0.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the factors influencing enzyme activity in biological systems.",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of acid rain and its environmental effects.",
+    "subject": "Environmental Science",
+    "topic": "Ecology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of inflation in economics and its impact on the economy.",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the role of mitogen-activated protein kinases (MAPKs) in cell signaling.",
+    "subject": "Biology",
+    "topic": "Cell Signaling",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the matrix equation: AX = B, where A = [[2, 3], [1, -2]], X = [[x], [y]], B = [[7], [3]].",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the principles of game theory and its applications in economics.",
+    "subject": "Economics",
+    "topic": "Game Theory",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define the concept of allosteric regulation in enzymatic reactions.",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Discuss the impact of social media on interpersonal communication.",
+    "subject": "Communication Studies",
+    "topic": "Social Media",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the process of meiotic recombination and its significance.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define the concept of gross domestic product (GDP) and its components.",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the role of renewable energy sources in mitigating climate change.",
+    "subject": "Environmental Science",
+    "topic": "Renewable Energy",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of dark matter in astrophysics.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Hard",
+    "marks": 15
   }
 ]
