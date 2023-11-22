@@ -1,0 +1,14 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+dist
+build
+.idea
+yarn-error.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+prisma/migrations
+uploads

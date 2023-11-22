@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "European Countries",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Science",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "marks": 2
+  },
+  {
+    "question": "What is the meaning of the word 'onomatopoeia'?",
+    "subject": "English",
+    "topic": "Vocabulary",
+    "difficulty": "Hard",
+    "marks": 3
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Science",
+    "topic": "Astronomy",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the name of the process by which plants convert sunlight into energy?",
+    "subject": "Science",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "marks": 2
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "subject": "Geography",
+    "topic": "North American Countries",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the formula for calculating the area of a circle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 2
+  },
+  {
+    "question": "What is the name of the chemical compound that makes up table salt?",
+    "subject": "Science",
+    "topic": "Chemistry",
+    "difficulty": "Hard",
+    "marks": 3
+  },
+  {
+    "question": "What is the capital of China?",
+    "subject": "Geography",
+    "topic": "Asian Countries",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "What is the name of the force that attracts objects towards each other?",
+    "subject": "Science",
+    "topic": "Physics",
+    "difficulty": "Medium",
+    "marks": 2
+  }
+]
