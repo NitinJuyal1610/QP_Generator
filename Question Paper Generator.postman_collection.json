@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "5b99c8c2-a5da-426c-9e6e-f81d104b2537",
+		"name": "Question Paper Generator",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "21567688"
+	},
+	"item": [
+		{
+			"name": "Add Question",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/nitin/OneDrive/Desktop/ReeloAssignment/demo.json"
+						}
+					]
+				},
+				"url": "http://localhost:3000/api/questions/"
+			},
+			"response": []
+		},
+		{
+			"name": "Generate Paper",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"totalMarks\":100,\r\n    \"basis\":\"difficulty\",\r\n    \"distribution\":{\r\n        \"Easy\":0,\r\n        \"Medium\":80,\r\n        \"Hard\":20\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:3000/api/questions"
+			},
+			"response": []
+		}
+	]
+}
