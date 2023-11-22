@@ -403,7 +403,7 @@
     "subject": "Political Science",
     "topic": "International Organizations",
     "difficulty": "Hard",
-    "marks": 15
+    "marks": 20
   },
   {
     "question": "Explain the concept of perfect competition in economics.",
@@ -508,7 +508,7 @@
     "subject": "Biology",
     "topic": "Cell Signaling",
     "difficulty": "Hard",
-    "marks": 15
+    "marks": 20
   },
   {
     "question": "Solve the matrix equation: AX = B, where A = [[2, 3], [1, -2]], X = [[x], [y]], B = [[7], [3]].",
@@ -522,7 +522,7 @@
     "subject": "Economics",
     "topic": "Game Theory",
     "difficulty": "Hard",
-    "marks": 15
+    "marks": 20
   },
   {
     "question": "Define the concept of allosteric regulation in enzymatic reactions.",
@@ -543,7 +543,7 @@
     "subject": "Biology",
     "topic": "Genetics",
     "difficulty": "Hard",
-    "marks": 15
+    "marks": 20
   },
   {
     "question": "Define the concept of gross domestic product (GDP) and its components.",

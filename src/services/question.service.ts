@@ -38,9 +38,11 @@ export const generatePaper = async (
 ): Promise<Question[]> => {
   let finalList: Question[] = [];
 
+  const values = Object.values(distribution) as number[];
+
   let totalPercentage = 0;
-  for (const basisValue of distribution) {
-    totalPercentage += basisValue;
+  for (const value of values) {
+    totalPercentage += value;
   }
 
   if (totalPercentage !== 100) {
